@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">My Application</string>
+    <string name="action_settings">Settings</string>
+    <string name="dateFormat">%2$d/%3$d/%1$d</string>
+</resources>
